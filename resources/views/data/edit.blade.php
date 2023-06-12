@@ -8,6 +8,7 @@
         @method('PUT')
         @include('data.form')
         <button type="submit" class="btn btn-primary">Update</button>
+        <div></div>
     </form>
 </div>
 @endsection
